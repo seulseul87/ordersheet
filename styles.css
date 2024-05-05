@@ -1,0 +1,146 @@
+/* 전체 페이지 스타일 */
+/* 모바일 버전 */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    font-family: "Noto Sans KR", Arial, sans-serif;
+    font-size: 11pt;
+    letter-spacing: -0.2pt;
+}
+
+h1 {
+    text-align: center;
+    margin: 80px 0 100px 0;
+    font-size: 32pt;
+    letter-spacing: -1pt;
+}
+
+button {
+    height: 64px;
+    font-size: 12pt;
+    letter-spacing: -0.2pt;
+}
+
+textarea {
+    background-color: #f4f4f4;
+}
+
+/* 인덱스 페이지 */
+.menu-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px auto;
+}
+
+.menu-list li {
+    margin-bottom: 10px;
+}
+
+.menu-link {
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+
+.menu-button {
+    width: 80%;
+    height: 90px;
+    padding: 10px;
+    background-color: #461478;
+    font-size: 20px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* 서브 페이지 */
+#ingredients-container {
+    width: 80%;
+    margin: 10px auto;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+}
+
+#copy-button {
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    display: block;
+    background-color: #461478;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#back-button {
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    display: block;
+    border-style: solid;
+    border-color: #461478;
+    border-width: 3px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    background-color: #fff;
+    color: #461478;
+}
+
+#copied-data {
+    width: 80%;
+    margin: 10px auto;
+    display: block;
+    border: 1px solid #f4f4f4;
+    border-radius: 5px;
+}
+/* 스크립트 input 스타일 */
+.ingredient-item {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap; /* Flex 요소들을 각 줄에 맞게 자동으로 나눔 */
+}
+
+.ingredient-item span {
+    flex-basis: calc(10% - 5px); /* 각 요소가 화면의 25%를 차지하도록 설정하며 간격 조절 */
+    flex-grow: 5; /* default 0 */
+    margin-left: 20px;
+}
+
+.ingredient-item input[type="text"] {
+    flex-basis: calc(10% - 5px); /* 입력창이 화면의 10%를 차지하도록 설정 */
+    height: 25px;
+    margin-right: 20px;
+}
+
+/* 4개의 컬럼을 갖는 컨테이너 스타일 */
+.four-column-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4개의 컬럼으로 나눔 */
+}
+
+/* 데스크탑 버전 */
+/* Small devices(landscape phones), 576px and up / Tablets, 768px and up / Desktops, 992px and up */
+@media screen and (min-width: 1024px) {
+    /* 데스크탑 버전 body의 width 줄임 */
+    body {
+        width: 60%;
+        margin: 10px auto;
+    }
+
+    /* 인덱스 페이지 */
+    .menu-button:hover {
+        background-color: #8070da;
+    }
+
+    /* 서브페이지 */
+    #copy-button:hover {
+        background-color: #8070da;
+    }
+}
