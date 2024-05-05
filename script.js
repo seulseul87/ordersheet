@@ -196,7 +196,7 @@ document.addEventListener("DOMContentLoaded", () => {
         ingredientItem.className = "ingredient-item";
         ingredientItem.innerHTML = `
             <span>${ingredients[i]}</span>
-            <input type="text" min="" value="" data-ingredient="${ingredients[i]}">
+            <input type="text" min="" value="" data-ingredient="${ingredients[i]}"> <br/>
             <span>${ingredients[i + 1]}</span>
             <input type="text" min="" value="" data-ingredient="${ingredients[i + 1]}">
         `;
