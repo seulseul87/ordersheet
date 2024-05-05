@@ -104,14 +104,14 @@ textarea {
 /* 모바일 버전 - 스크립트 input 스타일 */
 .ingredient-item {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+    flex-flow: column wrap;
+    /* justify-content: space-between; */
 }
 
 .ingredient-item span,
 .ingredient-item input[type="text"] {
-    /* 2개의 컬럼으로 나눔 */
-    width: 48%;
+    width: 100%;
+    /*width: 48%;  2개의 컬럼으로 나눔 */
     margin-bottom: 10px;
 }
 
