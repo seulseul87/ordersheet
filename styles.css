@@ -16,6 +16,12 @@ h1 {
     letter-spacing: -1pt;
 }
 
+button {
+    height: 40px;
+    font-size: 11pt;
+    letter-spacing: -0.2pt;
+}
+
 textarea {
     background-color: #f4f4f4;
 }
@@ -72,7 +78,6 @@ textarea {
 
 #copy-button {
     width: 80%;
-    height: 40px;
     margin: 10px auto;
     padding: 10px;
     display: block;
@@ -82,13 +87,10 @@ textarea {
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease;
-    font-size: 11pt;
-    letter-spacing: -0.2pt;
 }
 
 #back-button {
     width: 80%;
-    height: 40px;
     margin: 10px auto;
     padding: 10px;
     display: block;
@@ -100,8 +102,6 @@ textarea {
     transition: background-color 0.3s ease;
     background-color: #fff;
     color: #461478;
-    font-size: 11pt;
-    letter-spacing: -0.2pt;
 }
 
 #copied-data {
