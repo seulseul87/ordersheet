@@ -104,14 +104,14 @@ textarea {
 /* 모바일 버전 - 스크립트 input 스타일 */
 .ingredient-item {
     display: flex;
-    flex-flow: column nowrap;
-    /* justify-content: space-between; */
+    flex-flow: row wrap;
 }
 
 .ingredient-item span,
 .ingredient-item input[type="text"] {
-    width: 100%;
-    /*width: 48%;  2개의 컬럼으로 나눔 */
+    /* width: 100%; */
+    /* 2개의 컬럼으로 나눔 */
+    width: 48%;
     margin-bottom: 10px;
 }
 
@@ -121,7 +121,7 @@ textarea {
 
 /* 데스크탑 버전 */
 /* Small devices(landscape phones), 576px and up / Tablets, 768px and up / Desktops, 992px and up */
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 768px) {
     /* 데스크탑 버전 body의 width 줄임 */
     body {
         width: 60%;
@@ -149,13 +149,15 @@ textarea {
     /* 데스크탑 버전 - 스크립트 input 스타일 (4개 컬럼) */
     .ingredient-item {
         display: flex;
+        flex-flow: row nowrap;
         justify-content: space-between;
+        gap: 30px; /* column gap */
     }
 
     .ingredient-item span,
     .ingredient-item input[type="text"] {
         /* 4개의 컬럼으로 나눔 */
-        width: 23%;
+        /* width: 25%; */
         margin-bottom: 10px;
     }
 }
