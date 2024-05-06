@@ -16,15 +16,18 @@ h1 {
     letter-spacing: -1pt;
 }
 
-button {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    background-color: #fff;
-}
-
 textarea {
     background-color: #f4f4f4;
+}
+
+.wrap-btn {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    z-index: 999;
+    background-color: #fff;
 }
 
 /* 인덱스 페이지 */
@@ -64,11 +67,12 @@ textarea {
     display: flex;
     flex-flow: column wrap;
     justify-content: flex-start;
+    margin-bottom: 150px;
 }
 
 #copy-button {
     width: 80%;
-    height: 56px;
+    height: 48px;
     margin: 10px auto;
     padding: 10px;
     display: block;
@@ -78,13 +82,13 @@ textarea {
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease;
-    font-size: 12pt;
+    font-size: 11pt;
     letter-spacing: -0.2pt;
 }
 
 #back-button {
     width: 80%;
-    height: 56px;
+    height: 48px;
     margin: 10px auto;
     padding: 10px;
     display: block;
@@ -96,7 +100,7 @@ textarea {
     transition: background-color 0.3s ease;
     background-color: #fff;
     color: #461478;
-    font-size: 12pt;
+    font-size: 11pt;
     letter-spacing: -0.2pt;
 }
 
@@ -147,6 +151,7 @@ textarea {
         display: flex;
         flex-flow: column wrap;
         justify-content: flex-start;
+        margin-bottom: 150px;
     }
 
     #copy-button:hover {
