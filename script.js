@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Set the ingredients based on the current subpage
     if (subPage === "international") {
-        // 서브페이지 01
+        // 서브페이지 01 - 인터네셔널
         ingredients = [
             "감자",
             "감칠맛 미원",
@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "튀김가루",
         ];
     } else if (subPage === "goldenLeaf") {
-        // 서브페이지 02
+        // 서브페이지 02 - 골든리프
         ingredients = [
             "Green Leaf",
             "Tofu Bucket",
@@ -121,7 +121,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "Chopstick",
         ];
     } else if (subPage === "pk") {
-        // 서브페이지 03
+        // 서브페이지 03 - PK
         ingredients = [
             "고추장",
             "국간장",
@@ -149,6 +149,89 @@ document.addEventListener("DOMContentLoaded", () => {
             "은사 수세미",
             "유부",
             "참기름",
+            "파전 종이",
+            "피치 컬러 페이퍼",
+            "혼다시",
+            "환만 식초",
+            "햇살 담은 진간장",
+        ];
+    } else if (subPage === "peace") {
+        // 서브페이지 04 - 평화
+        ingredients = [
+            "고추장",
+            "국간장",
+            "굴소스",
+            "꽃소금",
+            "참기름",
+            "파전 종이",
+            "피치 컬러 페이퍼",
+            "혼다시",
+            "환만 식초",
+            "햇살 담은 진간장",
+            "된장",
+            "메이트 수세미",
+            "멸치 다시다",
+            "멸치액젓",
+            "모밀국수",
+            "미림",
+            "물엿",
+            "부산 어묵 사각",
+            "볶음 깨",
+            "사골 곰탕 육수",
+            "새우젓",
+            "순생선살 종합어묵",
+            "쌀",
+            "식초",
+            "쇠고기 다시다",
+            "은사 수세미",
+            "유부",
+            "참기름",
+            "파전 종이",
+            "피치 컬러 페이퍼",
+            "혼다시",
+            "환만 식초",
+            "햇살 담은 진간장",
+        ];
+    } else if (subPage === "eggmaster") {
+        // 서브페이지 05 - 에그 마스터
+        ingredients = [
+            "고추장",
+            "국간장",
+            "굴소스",
+            "꽃소금",
+            "참기름",
+            "파전 종이",
+            "쌀",
+            "식초",
+            "쇠고기 다시다",
+            "은사 수세미",
+            "유부",
+            "참기름",
+            "파전 종이",
+            "피치 컬러 페이퍼",
+            "혼다시",
+            "환만 식초",
+            "햇살 담은 진간장",
+        ];
+    } else if (subPage === "metopia") {
+        // 서브페이지 06 - 미토피아
+        ingredients = [
+            "고추장",
+            "국간장",
+            "굴소스",
+            "꽃소금",
+            "참기름",
+            "파전 종이",
+            "피치 컬러 페이퍼",
+            "혼다시",
+            "환만 식초",
+            "햇살 담은 진간장",
+            "된장",
+            "메이트 수세미",
+            "멸치 다시다",
+            "멸치액젓",
+            "모밀국수",
+            "미림",
             "파전 종이",
             "피치 컬러 페이퍼",
             "혼다시",
