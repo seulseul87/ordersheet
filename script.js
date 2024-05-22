@@ -54,6 +54,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "Buttercup Pumpkin",
             "Peeled Garlic",
             "Red Bell Pepper",
+            "Red Sheppards Pepper",
             "Potato (yukon)",
             "Spanish Onion",
             "Red Onion",
