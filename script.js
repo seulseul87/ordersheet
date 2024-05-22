@@ -18,6 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "고무장갑 (특대)",
             "김가루",
             "단호박",
+            "뚝배기 3호",
             "락스",
             "랩 (큰사이즈)",
             "뉴슈가",
