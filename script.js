@@ -76,7 +76,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "Green Bean",
             "Bleach",
             "Watercress",
-            "Jalapeño (Half)",
+            "Jalapeño",
             "Wasabi",
             "Eggplant",
             "Soy Sauce (Kikoman)",
@@ -175,7 +175,9 @@ document.addEventListener("DOMContentLoaded", () => {
         // 서브페이지 06 - 미토피아
         ingredients = [
             "갈비",
-            "삼겹",
+            "삼겹S",
+            "삼겹M",
+            "삼겹C",
             "안심",
             "등심",
             "목살",
@@ -192,6 +194,8 @@ document.addEventListener("DOMContentLoaded", () => {
             "와규등심",
             "와규안심",
             "와규부채",
+            "늑간",
+            "미트패드",
         ];
     }
 
