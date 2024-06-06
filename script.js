@@ -155,6 +155,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "혼다시",
             "환만 식초",
             "햇살 담은 진간장",
+            "찹쌀가루",
             "떡국떡",
         ];
     } else if (subPage === "peace") {
