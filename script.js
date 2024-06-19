@@ -120,6 +120,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "Watercress",
             "White Mushroom",
             "Zucchini (Fancy)",
+            "Plastic Roll Bag (Large)",
         ];
     } else if (subPage === "pk") {
         // 서브페이지 03 - PK
