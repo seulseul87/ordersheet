@@ -35,6 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "태경 김치용 고추가루",
             "퐁퐁",
             "튀김가루",
+            "물엿",
         ];
     } else if (subPage === "goldenLeaf") {
         // 서브페이지 02 - 골든리프
@@ -121,6 +122,8 @@ document.addEventListener("DOMContentLoaded", () => {
             "White Mushroom",
             "Zucchini (Fancy)",
             "Plastic Roll Bag (Large)",
+            "Plastic Roll Bag (Medium)",
+            "Corn Syrup",
         ];
     } else if (subPage === "pk") {
         // 서브페이지 03 - PK
@@ -158,6 +161,8 @@ document.addEventListener("DOMContentLoaded", () => {
             "햇살 담은 진간장",
             "찹쌀가루",
             "떡국떡",
+            "참치캔 150g x 48",
+            "참치캔 250g x 36",
         ];
     } else if (subPage === "peace") {
         // 서브페이지 04 - 평화
