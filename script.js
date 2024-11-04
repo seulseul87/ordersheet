@@ -35,6 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "락스",
             "랩 (큰사이즈)",
             "면장갑",
+            "일회용 비닐장갑(한국)",
             "비닐팩 (5 LB)",
             "바닥세제",
             "퐁퐁",
