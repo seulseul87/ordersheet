@@ -200,6 +200,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "삼겹C",
             "안심",
             "등심",
+            "살치",
             "목살",
             "오겹",
             "항정",
