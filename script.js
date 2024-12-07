@@ -213,6 +213,8 @@ document.addEventListener("DOMContentLoaded", () => {
             "토시",
             "대패",
             "우삼",
+            "양념목살",
+            "닭다리살",
             "육회",
             "샤브샤브",
             "와규등심",
