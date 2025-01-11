@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "퐁퐁",
             "바닥세제",
             "비닐팩 (5 LB)",
-            "Wrapped Plastic Straw",
+            
             "---------------",
             "고운 소금",
             "태경 고추장용 고추가루",
@@ -213,6 +213,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "은사 수세미",
             "갈아만든 배",
             "식혜",
+            "Wrapped Plastic Straw",
             "------------------",
             "다시 멸치",
             "다시마",
