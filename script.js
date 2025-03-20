@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "양파",
             "적양파",
             "블랙타이거 새우",
-            "해물믹스",
+            
             "종합어묵",
 
             "맛술(미림)",
@@ -85,6 +85,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "고운 소금",
             "태경 고추장용 고추가루",
             "태경 김치용 고추가루",
+            "해물믹스",
             "식용카라멜",
             "랩 (큰사이즈)",
             
@@ -96,6 +97,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "Green Leaf",
             "Green Onion (iceless)",
             "Garlic (Peeled)",
+            "Green Bean",
             "Pineapple Slice (Can)",
             "Red Sheppards Pepper",
             "Sugar",
@@ -112,6 +114,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "Oyster Sauce",
             "Vinegar",
             "Apple (Fuji)",
+            "Seafood Medley",
             "Spanish Onion",
             "Red Onion",
             "Garbage Bag Black (26 X 36)",
@@ -137,7 +140,7 @@ document.addEventListener("DOMContentLoaded", () => {
             
             "Ginger",
             "Soybean Sprout",
-            "Green Bean",
+            
             "Green Cabbage(each)",
             "Red Cabbage(each)",
             "Green Cabbage(box)",
@@ -159,7 +162,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "Roasted Sesame Seed",
             "Tiger Shrimp",
             "Sesame Oil (5L)",
-            "Seafood Medley",
+            
             "Soy Sauce (Kikoman)",
             "Wasabi",
             "Water",
