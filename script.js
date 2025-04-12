@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "배추",
             "양파",
             "적양파",
-            "블랙타이거 새우",
+            
             
             "종합어묵",
 
@@ -82,6 +82,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "비닐팩 (5 LB)",
             
             "---------------",
+            "블랙타이거 새우",
             "고운 소금",
             "태경 고추장용 고추가루",
             "태경 김치용 고추가루",
@@ -117,6 +118,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "Seafood Medley",
             "Spanish Onion",
             "Red Onion",
+            "Tiger Shrimp",
             "Garbage Bag Black (26 X 36)",
             "Garbage Bag Black (35 X 47)",
             "Garbage Bag Clear (35 X 50)",
@@ -160,7 +162,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "Nappa",
             
             "Roasted Sesame Seed",
-            "Tiger Shrimp",
+            
             "Sesame Oil (5L)",
             
             "Soy Sauce (Kikoman)",
