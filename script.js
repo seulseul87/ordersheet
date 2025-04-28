@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "적양배추(1박스)",
             "적양양배추(낱게)",
             "모짜렐라 치즈",
-            "프로즌콘",
+            "프로즌콘(below zero)",
             "가시오이",
             "레몬(박스)",
             "당근",
@@ -40,10 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "배추",
             "양파",
             "적양파",
-            
-            
             "종합어묵",
-
             "맛술(미림)",
             "물엿",
             "식용유",
@@ -51,16 +48,14 @@ document.addEventListener("DOMContentLoaded", () => {
             "건다시마",
             "다시멸치",
             "단호박",
-
             "샘표 진간장",
             "쇠고기 다시다",
             "멸치 다시다",
             "얌",
-            
             "미역",
-            
             "김가루",
             "쌀",
+            "마요네즈(Palace)",
             "동치미육수",
             "뉴슈가",
             "새우젓",
@@ -80,12 +75,11 @@ document.addEventListener("DOMContentLoaded", () => {
             "퐁퐁",
             "바닥세제",
             "비닐팩 (5 LB)",
-            
+            "태경 고추장용 고추가루",
+            "태경 김치용 고추가루",
             "---------------",
             "블랙타이거 새우",
             "고운 소금",
-            "태경 고추장용 고추가루",
-            "태경 김치용 고추가루",
             "해물믹스",
             "식용카라멜",
             "랩 (큰사이즈)",
@@ -111,7 +105,6 @@ document.addEventListener("DOMContentLoaded", () => {
             "Shirakiku Roasted Sesame",
             "Black Pepper Powder",
             "Italiano",
-            "Mayonaiase (Palace)",
             "Oyster Sauce",
             "Vinegar",
             "Apple (Fuji)",
@@ -139,7 +132,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "Enoki Mushroom",
             "Frozen Corn(Below Zero)",
             "Zucchini (Fancy)",
-            
+            "Mayonaiase (Palace)",
             "Ginger",
             "Soybean Sprout",
             
