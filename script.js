@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "단호박",
             "샘표 진간장",
             "쇠고기 다시다",
-            "멸치 다시다",
+            
             "얌",
             "미역",
             "김가루",
@@ -207,6 +207,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "종합어묵",
             "국수소면",
             "미원",
+            "멸치 다시다",
             "국간장",
             "굴소스",
             "흑미",
