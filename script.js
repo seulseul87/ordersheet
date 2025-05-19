@@ -294,6 +294,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "와규안심",
             "와규부채",
             "돼지 껍데기",
+            "고등어",
             "미트패드",
         ];
     }
