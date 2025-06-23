@@ -22,8 +22,10 @@ document.addEventListener("DOMContentLoaded", () => {
             "양송이버섯",
             "새송이버섯",
             "씨푸드버섯",
+            "느타리버섯",
             "시메지버섯",
             "이노키버섯",
+            
             "미나리(파운드)",
             "양배추(1박스)",
             "양배추(낱게)",
@@ -263,6 +265,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "Liquid Egg",
             "Boiled Egg",
             "Large Egg",
+            "Mozz shred Santa Lucia ",
         ];
     } else if (subPage === "metopia") {
         // 서브페이지 06 - 미토피아
