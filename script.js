@@ -212,6 +212,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "멸치 다시다",
             "국간장",
             "굴소스",
+            "참치액",
             "흑미",
             "당면",
             "사골 곰탕 육수",
@@ -250,6 +251,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "짜파게티",
             "중화생면",
             "비비고만두 돼지",
+            "런천미트",
             "면장갑(얇은)",
         ];
     } else if (subPage === "peace") {
