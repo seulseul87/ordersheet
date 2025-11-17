@@ -11,40 +11,50 @@ document.addEventListener("DOMContentLoaded", () => {
     if (subPage === "international") {
         // 서브페이지 01 - 인터네셔널
         ingredients = [
-            "상추",
+            
             "파(Green Onion)",
             "깐마늘",
-            "쥬치니(Zucchini)",
+            
             "부추",
-            "그린빈",
-            "홍피망",
-            "할라피뇨",
+            
             "양송이버섯",
+            "할라피뇨",
+            "양배추(낱게)",
+            "프로즌콘(below zero)",
+"가시오이",
+"양파",
+ "무",
+ "물엿",
+ "전분",
+            
             "새송이버섯",
             "씨푸드버섯",
             "느타리버섯",
             "시메지버섯",
             "이노키버섯",
-            
+            "그린빈",
+            "홍피망",
+"쥬치니(Zucchini)",
+            "상추",
             "미나리(파운드)",
             "양배추(1박스)",
-            "양배추(낱게)",
+            
             "적양배추(1박스)",
             "적양양배추(낱게)",
             "모짜렐라 치즈",
-            "프로즌콘(below zero)",
-            "가시오이",
+            
+            
             "레몬(박스)",
             "당근",
-            "무",
+           
             "생강",
             "감자",
             "배추",
-            "양파",
+            
             "적양파",
             "종합어묵",
             "맛술(미림)",
-            "물엿",
+            
             "식용유",
             "멸치액젓",
             "건다시마",
@@ -71,6 +81,10 @@ document.addEventListener("DOMContentLoaded", () => {
             "일회용 비닐장갑(한국)",
             "롤백(미디움)",
             "롤백(라지)",
+            "4C Container",
+            "4C Lid",
+            "브라운페이퍼",
+
             "뚝배기 3호",
             "뚝배기 3호 받침대",
             "뚝배기 4호",
@@ -78,6 +92,9 @@ document.addEventListener("DOMContentLoaded", () => {
             "퐁퐁",
             "바닥세제",
             "비닐팩 (5 LB)",
+            "니트릴 글러브(S)",
+            "니트릴 글러브(M)",
+            "니트릴 글러브(XL)",
             "태경 고추장용 고추가루",
             "태경 김치용 고추가루",
             "---------------",
@@ -197,6 +214,18 @@ document.addEventListener("DOMContentLoaded", () => {
             "고추가루 김치용(태경X)",
             "고추가루 고추장용(태경X)",
             "해찬들 된장",
+            "된장",
+            "돈까스 소스",
+            "빵가루",
+            "생선(동태)",
+            "스리라차 소스",
+            "크림스프",
+            "후추",
+            "땅콩",
+            "칵테일새우(101~200)",
+            "캡사이신",
+
+
             "해찬들 고추장",
             "냉면 육수",
             "햇살 담은 진간장",
@@ -260,10 +289,20 @@ document.addEventListener("DOMContentLoaded", () => {
            "두부",
            "순두부",
            "콩나물",
+           "떡볶이 떡(작은것)",
         ];
     } else if (subPage === "eggmaster") {
         // 서브페이지 05 - 에그 마스터
         ingredients = [
+            "MARBLE BLOCK",
+            "MARBLE SHREDDED",
+            "MOZZARELLA BLOCK",
+            "Butter",
+            
+            "2% 4L BAG Milk(SEALTEST)",
+            "18% 1L (SEALTEST)",
+            "35% 1L (SEALTEST)",
+            "Sour cream(2L)",
             "Liquid Egg",
             "Boiled Egg",
             "Large Egg",
@@ -272,6 +311,17 @@ document.addEventListener("DOMContentLoaded", () => {
     } else if (subPage === "metopia") {
         // 서브페이지 06 - 미토피아
         ingredients = [
+            "홀치킨",
+            "닭가슴살",
+            "닭다리살",
+            "돼지민지",
+            "윙(CUT)",
+            "드럼스틱",
+            "풀윙",
+
+            
+
+
             "갈비",
             "삼겹S",
             "삼겹M",
@@ -292,7 +342,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "제육",
             "양지머리",
             "감자뼈",
-            "닭다리살",
+            
             "육회",
             "샤브샤브",
             "와규등심",
@@ -302,7 +352,70 @@ document.addEventListener("DOMContentLoaded", () => {
             "고등어",
             "미트패드",
         ];
+    } else if (subPage === "costco") {
+        // 서브페이지 07 - Costco
+        ingredients = [
+            "Wedge Potato",
+            "Corn syrup",
+            "Calamary",
+            "Strawberry jam",
+            "Olive oil",
+            "Paper towel",
+        ];
+    } else if (subPage === "stewarts") {
+        // 서브페이지 07 - Costco
+        ingredients = [
+            "Sweet Potato",
+            "Parsley",
+            "Coconut shrimp",
+            "Jersey Fries",
+            "Nacho",
+            "Sour cream",
+            "Sweet chili",
+            "Honey Garlic",
+            "Creamy Garlic",
+            "Jalapeno",
+            "White vinegar",
+            "Apple vinegar",
+            "Balsamic vinegar",
+            "Buffalo sauce",
+            "Gravy mix",
+            "Wedge potato",
+            "Cord cheese(poutine cheese)",
+            "Cheddar cheese sauce",
+            "Dill Powder",
+            "Garic Powder",
+            "Onion Powder",
+            "Butter(Orinial)",
+            "Corn",
+            "Sugar",
+            "Parmesan cheese",
+            "Bacon bit",
+            "Black olives",
+            "Ketchup(2.84L)",
+            "Croutons",
+            "Primo Spaghetti sauce",
+            "Tomato sauce",
+            "Dry Cajun",
+            "Diced tomato",
+            "Lemon Juice",
+            "Vegetable mix",
+            "Honey mustard",
+            "Table salt",
+            "Onion-ring",
+            "Aioli garlic",
+            "Balsamic sauce",
+            "Oven&grill cleaner",
+            "Corn syrup",
+            "Salsa sauce",
+            "Tartar sauce",
+            "Armor Orange stuff",
+            "All-purpose flour",
+
+            
+        ];
     }
+
 
     // 수량 입력 필드를 자동으로 생성 (4개의 컬럼)
     for (let i = 0; i < ingredients.length; i += 2) {
