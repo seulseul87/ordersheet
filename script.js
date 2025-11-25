@@ -366,52 +366,64 @@ document.addEventListener("DOMContentLoaded", () => {
         // 서브페이지 07 - Costco
         ingredients = [
             "Sweet Potato",
-            "Parsley",
+            "Wedge potato",
+            "Cord cheese(poutine cheese)",
             "Coconut shrimp",
             "Jersey Fries",
+            "Onion-ring",
             "Nacho",
+            "Corn",
+            "Bacon bit",
+            "Vegetable mix",
+            "Croutons",
             "Sour cream",
+
+            "Salsa sauce",
+            "Tartar sauce",
             "Sweet chili",
             "Honey Garlic",
             "Creamy Garlic",
-            "Jalapeno",
+            
             "White vinegar",
             "Apple vinegar",
             "Balsamic vinegar",
             "Buffalo sauce",
+            "Honey mustard",
             "Gravy mix",
-            "Wedge potato",
-            "Cord cheese(poutine cheese)",
+            "Aioli garlic",
+            "Balsamic sauce",
+            
             "Cheddar cheese sauce",
             "Dill Powder",
             "Garic Powder",
             "Onion Powder",
+            "Ginger Powder",
+            "SPICE PICKLING WHOLE MIX",
             "Butter(Orinial)",
-            "Corn",
+            
             "Sugar",
             "Parmesan cheese",
-            "Bacon bit",
+            "Jalapeno",
             "Black olives",
             "Ketchup(2.84L)",
-            "Croutons",
+            
             "Primo Spaghetti sauce",
             "Tomato sauce",
             "Dry Cajun",
             "Diced tomato",
             "Lemon Juice",
-            "Vegetable mix",
-            "Honey mustard",
+            
+            
             "Table salt",
-            "Onion-ring",
-            "Aioli garlic",
-            "Balsamic sauce",
+            
+            
             "Oven&grill cleaner",
             "Corn syrup",
-            "Salsa sauce",
-            "Tartar sauce",
+            
+
             "Armor Orange stuff",
             "All-purpose flour",
-
+            "Parsley",
             
         ];
     }
