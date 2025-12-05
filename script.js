@@ -398,6 +398,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "Garic Powder",
             "Onion Powder",
             "Ginger Powder",
+            "Paprika Powder",
             "SPICE PICKLING WHOLE MIX",
             "Butter(Orinial)",
             
@@ -425,6 +426,15 @@ document.addEventListener("DOMContentLoaded", () => {
             "All-purpose flour",
             "Parsley",
             
+        ];
+    }else if (subPage === "FoodsUp") {
+        ingredients = [
+            "Oil",
+            "All-Purpose flour",
+            "Pastry flour",
+            "Roll Bag(Large)",
+            "Roll Bag(Medium)",
+            "Sugar",
         ];
     }
 
