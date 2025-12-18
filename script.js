@@ -315,6 +315,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "닭가슴살",
             "닭다리살",
             "돼지민지",
+            "소민지",
             "윙(CUT)",
             "드럼스틱",
             "풀윙",
@@ -361,6 +362,9 @@ document.addEventListener("DOMContentLoaded", () => {
             "Strawberry jam",
             "Olive oil",
             "Paper towel",
+            "Volcan Nitrile Glove(M)",
+            "Volcan Nitrile Glove(L)",
+            "Volcan Nitrile Glove(XL)",
         ];
     } else if (subPage === "stewarts") {
         // 서브페이지 07 - Costco
@@ -435,6 +439,10 @@ document.addEventListener("DOMContentLoaded", () => {
             "Roll Bag(Large)",
             "Roll Bag(Medium)",
             "Sugar",
+            "Mayonaiase (Palace)",
+            "Large eggs",
+            "Boiled eggs",
+
         ];
     }
 
