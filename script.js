@@ -316,6 +316,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "닭다리살",
             "돼지민지",
             "소민지",
+            "돼지등심",
             "윙(CUT)",
             "드럼스틱",
             "풀윙",
