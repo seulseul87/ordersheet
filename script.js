@@ -16,17 +16,17 @@ document.addEventListener("DOMContentLoaded", () => {
             "깐마늘",
             
             "부추",
-            
+
             "양송이버섯",
             "할라피뇨",
             "양배추(낱게)",
             "프로즌콘(below zero)",
-"가시오이",
-"양파",
- "무",
- "물엿",
- "전분",
-            
+            "가시오이",
+            "양파",
+            "무",
+            "물엿",
+            "전분",
+
             "새송이버섯",
             "씨푸드버섯",
             "느타리버섯",
@@ -34,15 +34,15 @@ document.addEventListener("DOMContentLoaded", () => {
             "이노키버섯",
             "그린빈",
             "홍피망",
-"쥬치니(Zucchini)",
+            "쥬치니(Zucchini)",
             "상추",
             "미나리(파운드)",
             "양배추(1박스)",
-            
+
             "적양배추(1박스)",
             "적양양배추(낱게)",
             "모짜렐라 치즈",
-            
+
             
             "레몬(박스)",
             "당근",
@@ -362,7 +362,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "Calamary",
             "Strawberry jam",
             "Olive oil",
-            "Paper towel",
+            "Kitchen towel",
             "Volcan Nitrile Glove(M)",
             "Volcan Nitrile Glove(L)",
             "Volcan Nitrile Glove(XL)",
@@ -381,24 +381,26 @@ document.addEventListener("DOMContentLoaded", () => {
             "Bacon bit",
             "Vegetable mix",
             "Croutons",
+            "Cheddar cheese sauce",
+            "Jalapeno",
+            "Black olives",
+            
             "Sour cream",
-
             "Salsa sauce",
             "Tartar sauce",
             "Sweet chili",
             "Honey Garlic",
             "Creamy Garlic",
-            
+            "Buffalo sauce",
             "White vinegar",
             "Apple vinegar",
             "Balsamic vinegar",
-            "Buffalo sauce",
             "Honey mustard",
             "Gravy mix",
             "Aioli garlic",
             "Balsamic sauce",
             
-            "Cheddar cheese sauce",
+
             "Dill Powder",
             "Garic Powder",
             "Onion Powder",
@@ -409,8 +411,7 @@ document.addEventListener("DOMContentLoaded", () => {
             
             "Sugar",
             "Parmesan cheese",
-            "Jalapeno",
-            "Black olives",
+            
             "Ketchup(2.84L)",
             
             "Primo Spaghetti sauce",
@@ -443,6 +444,22 @@ document.addEventListener("DOMContentLoaded", () => {
             "Mayonaiase (Palace)",
             "Large eggs",
             "Boiled eggs",
+            "2% 4L BAG Milk(SEALTEST)",
+            "퐁퐁",
+            "Bleach",
+            "Kraft Box #1",
+            "Kraft Box #2",
+            "Kraft Box #3",
+            "Kraft Box #4",
+            "LR-28 Container",
+            "Bento Box",
+
+        ];
+    }else if (subPage === "Wismatac") {
+        ingredients = [
+            "Miso",
+            "Bonito Flakes",
+            "Tonkotsu soup base",
 
         ];
     }
