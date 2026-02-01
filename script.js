@@ -360,7 +360,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "Wedge Potato",
             "Corn syrup",
             "Calamary",
-            "Strawberry jam",
+            "Strawberry jam(each)",
             "Olive oil",
             "Kitchen towel",
             "Volcan Nitrile Glove(M)",
@@ -425,8 +425,6 @@ document.addEventListener("DOMContentLoaded", () => {
             
             
             "Oven&grill cleaner",
-            "Corn syrup",
-            
 
             "Armor Orange stuff",
             "All-purpose flour",
@@ -445,6 +443,8 @@ document.addEventListener("DOMContentLoaded", () => {
             "Large eggs",
             "Boiled eggs",
             "2% 4L BAG Milk(SEALTEST)",
+            "Vinegar",
+            "Oyster Sauce",
             "퐁퐁",
             "Bleach",
             "Kraft Box #1",
