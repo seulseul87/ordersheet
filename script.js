@@ -377,6 +377,8 @@ document.addEventListener("DOMContentLoaded", () => {
             "Jersey Fries",
             "Onion-ring",
             "Nacho",
+            "POPPERS CRM CHS JALAPENO",
+            "FISH COD FILLET GUINNESS BATT",
             "Corn",
             "Bacon bit",
             "Vegetable mix",
