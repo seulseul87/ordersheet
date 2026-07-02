@@ -362,6 +362,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "Calamary",
             "Strawberry jam(each)",
             "Olive oil",
+            "Sausage",
             "Kitchen towel",
             "Volcan Nitrile Glove(M)",
             "Volcan Nitrile Glove(L)",
@@ -378,7 +379,11 @@ document.addEventListener("DOMContentLoaded", () => {
             "Onion-ring",
             "Nacho",
             "POPPERS CRM CHS JALAPENO",
+            "POPPERS CRM CHS JALAPENO (Spicy)",
             "FISH COD FILLET GUINNESS BATT",
+            "Cheese Stick",
+            "Popcorn Shrimp",
+            "Pickle Chips",
             "Corn",
             "Bacon bit",
             "Vegetable mix",
@@ -447,6 +452,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "2% 4L BAG Milk(SEALTEST)",
             "Vinegar",
             "Oyster Sauce",
+            "Takoyaki",
             "퐁퐁",
             "Bleach",
             "Kraft Box #1",
@@ -462,6 +468,8 @@ document.addEventListener("DOMContentLoaded", () => {
             "Miso",
             "Bonito Flakes",
             "Tonkotsu soup base",
+            "Shrimp",
+            "Takoyaki",
 
         ];
     }
