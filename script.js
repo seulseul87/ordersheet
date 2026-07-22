@@ -399,11 +399,13 @@ document.addEventListener("DOMContentLoaded", () => {
             "Sweet chili",
             "Honey Garlic",
             "Creamy Garlic",
+            "Balsamic vinegar",
+            "Honey mustard",
+            "Blue Cheese",
             "Buffalo sauce",
             "White vinegar",
             "Apple vinegar",
-            "Balsamic vinegar",
-            "Honey mustard",
+            
             "Gravy mix",
             "Aioli garlic",
             "Balsamic sauce",
@@ -443,6 +445,7 @@ document.addEventListener("DOMContentLoaded", () => {
         ingredients = [
             "Oil",
             "All-Purpose flour",
+            "Potato Starch",
             "Pastry flour",
             "Roll Bag(Large)",
             "Roll Bag(Medium)",
