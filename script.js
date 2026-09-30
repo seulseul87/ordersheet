@@ -455,6 +455,7 @@ document.addEventListener("DOMContentLoaded", () => {
             "Mayonaiase (Palace)",
             "Large eggs",
             "Boiled eggs",
+            "Cucumber(Medium)",
             "2% 4L BAG Milk(SEALTEST)",
             "Vinegar",
             "Oyster Sauce",
